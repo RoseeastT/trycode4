@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://bingo88.mal-lang.org/sitemap.xml
+Sitemap : http://bingo88.zra.com/sitemap.xml
